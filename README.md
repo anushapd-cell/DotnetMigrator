@@ -31,7 +31,7 @@ To make this process more structured and manageable, this tool was created to au
 2. Navigate to the project folder  
 3. Run:
 
-   dotnet run -- "<path-to-solution>" [ path of the target project folder which need to be upgraded ]
+   dotnet run -- "< path of the target project folder which need to be upgraded >"
 
 ## Note
 
